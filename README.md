@@ -12,4 +12,4 @@ make
 ./ircserv 666 dumbpassword
 ```
 
-P.S. ft stands for forty two.
+P.S. : ft inf ft_irc stands for forty two.
