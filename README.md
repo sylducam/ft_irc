@@ -1,14 +1,15 @@
-# cub3d
+# ft_irc
 
-www.42lyon.fr school project. Coded with [@nigoncal](https://github.com/nigoncal) & [@Paulicorne](https://github.com/Paulicorne).
+www.42lyon.fr school project. Coded with [@benprz](https://github.com/benprz) & [@nigoncal](https://github.com/nigoncal).
 
-cub3d is a 3d video game coded in C inspired by Wolfenstein3d, in which the player can roam a map.
+IRC like chat recoded in C++
 
-## To launch the game
+## Try it
 ```
 make
 ```
 ```
-./cub3d ./srcs/config/map.cub
+./ircserv 666 dumbpassword
 ```
-Controls : WASD, arrow left, arrow right
+
+P.S. ft stands for forty two.
